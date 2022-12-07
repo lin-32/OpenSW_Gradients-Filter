@@ -1,4 +1,4 @@
-# OpenSW_Gradiant-Filter
+# OpenSW_Gradient-Filter
 
 > 이 프로젝트는 Open CV를 복합적인 방식으로 활용해  경계감지 및 시각화를 수행합니다. 
 > 이미지 처리를 수행할 때 사용하는 작업 중 하나인 그라디언트 기반(Sobel)과 Laplacian 및 을 통해 경계감지를 수행하며, 
