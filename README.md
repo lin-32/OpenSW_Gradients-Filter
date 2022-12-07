@@ -18,5 +18,5 @@ shell 프로그램 또는 command 에서 파일을 실행합니다.
 | ------ | ------ |
 | Laplacian | [https://github.com/jso303/OpenCV_Python/tree/93a9ade410a58ea7a4db38d994c235347840cb7d](https://github.com/jso303/OpenCV_Python/tree/93a9ade410a58ea7a4db38d994c235347840cb7d) |
 | Sobel, Canny | [http://www.gisdeveloper.co.kr/?p=6546](http://www.gisdeveloper.co.kr/?p=6546) |
-| Blur | [https://hyongdoc.tistory.com/444https://marisara.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-openCV-19-%EC%97%90%EC%A7%80%EA%B2%80%EC%B6%9C-%EB%9D%BC%ED%94%8C%EB%9D%BC%EC%8B%9C%EC%95%88Laplacian-LoGLaplacian-of-Gaussian-DoGDifference-of-Gaussian](https://hyongdoc.tistory.com/444https://marisara.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-openCV-19-%EC%97%90%EC%A7%80%EA%B2%80%EC%B6%9C-%EB%9D%BC%ED%94%8C%EB%9D%BC%EC%8B%9C%EC%95%88Laplacian-LoGLaplacian-of-Gaussian-DoGDifference-of-Gaussian) |
+| Blur | [https://marisara.tistory.com/entry/파이썬-openCV-19-에지검출-라플라시안Laplacian-LoGLaplacian-of-Gaussian-DoGDifference-of-Gaussian](https://marisara.tistory.com/entry/파이썬-openCV-19-에지검출-라플라시안Laplacian-LoGLaplacian-of-Gaussian-DoGDifference-of-Gaussian) |
 
