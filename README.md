@@ -1,11 +1,9 @@
 # OpenSW_Gradient-Filter
 
 > 이 프로젝트는 Open CV를 복합적인 방식으로 활용해  경계 감지 및 시각화를 수행합니다. 
-> This project utilizes Open CV in a complex way to perform boundary detection and visualization.
 > 이미지 처리를 수행할 때 사용하는 작업 중 하나인 그라디언트 기반(Sobel)과 Laplacian 및 을 통해 경계감지를 수행하며, 
-> Boundary detection is performed through gradient-based (Sobel), Laplacian, and one of the tasks used to perform image processing
 > 이후, 가우시안을 적용하고 라플라시안을 사용하는 필터를 통해 Blur 및 Canny edge를 수행 합니다. 
-> Afterwards, blur and canny edge are performed by applying Gaussian and filtering using Laplacian.
+> This project utilizes Open CV in a complex way to perform boundary detection and visualization. Boundary detection is performed through gradient-based (Sobel), Laplacian, and one of the tasks used to perform image processing. Afterwards, blur and canny edge are performed by applying Gaussian and filtering using Laplacian.
 
 #### 실행 화면(RUN SCREEN)
 (12월 12일 업로드 예정) (To be uploaded on December 12th)
