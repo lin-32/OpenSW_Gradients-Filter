@@ -6,7 +6,9 @@ laplacian = cv2.Laplacian(img, cv2.CV_8U)
 sobelx = cv2.Sobel(img,cv2.CV_8U,1,0)
 sobely = cv2.Sobel(img,cv2.CV_8U,0,1)
 blur = cv2.GaussianBlur(img, cv2.CV_8U, (5, 5), 0)
+blur2 = cv2.medianBlur(img, cv2.CV_8U, 3)
 edge = cv2.Canny(img, cv2.CV_8U, 200, 255)
+
 
 plt.figure(figsize=(15, 8))
 
@@ -40,5 +42,11 @@ plt.imshow(edge, cmap='gray')
 plt.title('Edge')
 plt.xticks([]), plt.yticks([])
 
+plt.subplot(2,2,7)
+plt.imshow(blur2, cmap='gray')
+plt.title('medianBlur')
+plt.axis("off")
+
 plt.tight_layout()
 plt.show()
+plt.waitkey()
